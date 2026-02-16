@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "BREEEEZE GIRL",
+  "base_artist": "焼塩檸檬（CV: 若山詩音）",
+  "createdAt": "2026-02-16T17:56:14.892986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BREEEEZE GIRL",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/01_BREEEEZE_GIRL_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breeeeze Girl II",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/02_Breeeeze_Girl_II_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breeeeze Girl",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/03_Breeeeze_Girl_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BREEEEZE GIRL",
+      "artist": "焼塩檸檬(CV: 若山詩音)",
+      "has_synced": false,
+      "path": "select/pl_01_BREEEEZE_GIRL_焼塩檸檬(CV__若山詩音).txt"
+    }
+  ]
+}
